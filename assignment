@@ -1,0 +1,104 @@
+Download and Install Visual Studio Code on Windows 11
+
+    Prerequisites:
+        Ensure your Windows 11 system meets the minimum requirements for Visual Studio Code.
+        Have administrative privileges to install software on your system.
+
+    Downloading and Installing:
+        Visit the Visual Studio Code website.
+        Click on the download button for Windows.
+        Once downloaded, run the installer.
+        Follow the installation wizard instructions.
+        Optionally, add VS Code to your PATH during installation for easier command-line access.
+
+First-time Setup
+
+After installing Visual Studio Code:
+
+    Initial Configurations and Settings:
+        Install recommended extensions for your workflow (e.g., Python, JavaScript).
+        Configure user settings such as theme, font size, and keybindings.
+
+User Interface Overview
+
+    Activity Bar:
+        Located on the side, it provides quick access to different views like Explorer, Search, Source Control, and Extensions.
+
+    Side Bar:
+        Contains different panels such as Explorer (for files), Search, Source Control (Git), and Extensions.
+
+    Editor Group:
+        Area where files are opened as tabs for editing.
+
+    Status Bar:
+        Displays information about the current file, Git branch, and other notifications.
+
+Command Palette
+
+    Purpose:
+        Allows users to access various commands and features by typing.
+        Accessed via Ctrl+Shift+P or Cmd+Shift+P on macOS.
+
+    Examples of Tasks:
+        Opening files (Open File)
+        Installing extensions (Extensions: Install Extensions)
+        Changing the theme (Preferences: Color Theme)
+
+Extensions in VS Code
+
+    Role of Extensions:
+        Extend functionality for different languages and frameworks.
+        Enhance productivity with tools like linters, debuggers, and project templates.
+
+    Finding and Managing Extensions:
+        Access the Extensions view in VS Code (Activity Bar > Extensions).
+        Search for extensions, install, disable, or uninstall as needed.
+
+    Essential Extensions for Web Development:
+        ESLint for JavaScript linting.
+        Debugger for Chrome for debugging JavaScript in Chrome.
+        Live Server for a local development server.
+
+Integrated Terminal
+
+    Opening and Using:
+        Open the terminal with Ctrl+`` (backtick) or through the menu (Terminal > New Terminal`).
+        Run terminal commands directly within VS Code.
+
+    Advantages:
+        Seamless integration with your development environment.
+        Avoids context switching to an external terminal.
+
+File and Folder Management
+
+    Creating and Opening:
+        Create files and folders using Explorer (Side Bar > Explorer).
+        Open files by double-clicking or right-clicking and selecting Open.
+
+    Navigating Efficiently:
+        Use Ctrl+P to quickly open files by name.
+        Navigate between open files with Ctrl+Tab.
+
+Settings and Preferences
+
+    Finding and Customizing:
+        Access settings through File > Preferences > Settings.
+        Customize theme (workbench.colorTheme), font size (editor.fontSize), and keybindings (keybindings.json).
+
+Debugging in VS Code
+
+    Setting Up and Starting:
+        Install the necessary debugger extensions (e.g., Debugger for Chrome for JavaScript).
+        Set breakpoints in your code.
+        Run or debug using the debugger view (Run > Start Debugging or F5).
+
+    Key Features:
+        Watch variables, call stack, and breakpoints.
+        Debugging configurations for different languages and environments.
+
+Using Source Control
+
+    Integrating Git:
+        Install Git on your system if not already installed.
+        Initialize a repository (git init) in your project folder.
+        Stage changes, commit (Ctrl+Enter), and push changes to GitHub or other remote repositories.
